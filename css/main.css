@@ -5,6 +5,12 @@ body {
 	background-color: linen;
 }
 
+hr {
+     height: 1.5px;
+     background-color: grey;
+     color: grey;
+}
+
 .title-logo {
 	margin-top: 20px;
 }
@@ -13,15 +19,29 @@ body {
 	font-size: 60px;
 }
 
+.header {
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+
 .text-muted {
 	color: #BCBBBB
 }
 
-.text-thin {
-	font-weight: 100;
+.text-bold {
+	font-weight: bold;
+
 }
 
 .footer {
 	margin-bottom: 20px;
 	color: black;
+}
+
+.modal-text {
+	color: #000000;
+	font-weight: 300;
+
 }
