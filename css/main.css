@@ -52,6 +52,7 @@ a:active {
 	border-top-style: solid;
 	padding-top: 15px;
 	margin-top: 15px;
+	text-transform: uppercase;
 
 }
 
@@ -62,11 +63,6 @@ a:active {
 .text-bold {
 	font-weight: bold;
 
-}
-
-.footer {
-	margin-bottom: 20px;
-	color: black;
 }
 
 .modal-text {
