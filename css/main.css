@@ -11,12 +11,7 @@ hr {
      color: grey;
 }
 
-a:link {
-    text-decoration: none;
-    color: #000000;
-}
-
-a:visited {
+a:link, a:visited, a:active {
     text-decoration: none;
     color: #000000;
 }
@@ -25,11 +20,6 @@ a:hover {
     text-decoration: underline;
     color: #000000;
     text-transform: uppercase;
-}
-
-a:active {
-    text-decoration: none;
-    color: #000000;
 }
 
 .title-logo {
@@ -53,7 +43,6 @@ a:active {
 	padding-top: 15px;
 	margin-top: 15px;
 	text-transform: uppercase;
-
 }
 
 .text-muted {
@@ -62,11 +51,9 @@ a:active {
 
 .text-bold {
 	font-weight: bold;
-
 }
 
 .modal-text {
 	color: #000000;
 	font-weight: 300;
-
 }
