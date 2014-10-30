@@ -1,0 +1,10 @@
+List of sites used while setting up my initial portfolio site
+
+udacity.com
+getbootstrap.com
+w3schools.com
+developer.mozilla.org
+css-tricks.com
+www.google.com/fonts
+validator.w3.org/
+jigsaw.w3.org/css-validator/
